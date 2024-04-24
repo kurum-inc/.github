@@ -1,4 +1,4 @@
-## 🚀【Kurum Inc.】🚀
+## 🚀【KURUM Inc.】🚀
 
 Hi! We are Kurum Inc., a company committed to solving societal challenges through technology.
 
@@ -10,5 +10,5 @@ On this GitHub, we share the code that solves the difficult problems we face dai
 
 We are committed to discovering the true value that technology holds and harnessing it for the benefit of society. We invite you to join our challenges and help shape the future together.
 
-Welcome to Kurum Inc.'s GitHub.
+Welcome to KURUM Inc.'s GitHub.
 
